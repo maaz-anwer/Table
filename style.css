@@ -1,0 +1,13 @@
+body{
+    /* background-color: black; */
+    /* color:black; */
+    /* margin-top:20px; */
+    margin-left: 30px;
+    text-decoration: underline;
+}
+h1{
+    text-shadow: 9px 9px 10px black;
+}
+h2{
+    text-shadow: 9px 9px 10px black;
+ }
